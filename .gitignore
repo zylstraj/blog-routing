@@ -1,5 +1,6 @@
-node_modules
-.gitattributes
+/node_modules
+/.gitattributes
+/npm-debug.log
 
 # Windows image file caches
 Thumbs.db
